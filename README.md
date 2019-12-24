@@ -7,6 +7,7 @@ In addition, the application stores the individual’s credentials and preferenc
 
 The application is in 3 parts, a web UI, a centralized process to manage the chat and chat rooms and persist the credentials and a persistent storage mechanism.
 
+
 To connect to the database:
   1. start your apache server
   2. change the MySQL username and password in connection.php
