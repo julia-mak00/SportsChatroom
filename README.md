@@ -1,4 +1,4 @@
-#Sports Chatroom
+# Sports Chatroom
 This project is for the SE 3910 Software Engineering class held in Fall '19 at University of Central Missouri. The professor in charge of this class is Dr Taeghyun Kang.
 
 This web application provides a platform where one can join their friends and talk about their favorite teams and players. An individual can create a profile page with their favorite teams and players. The application also supports multiple simultaneous chat rooms and individual chats.
